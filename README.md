@@ -9,7 +9,7 @@
 $ git checkout -b feature1
 $ git add -A
 $ git commit -m "first commit"
-$ git push origin master
+$ git push origin feature1
 ```
 
 ## ข้อ 4
